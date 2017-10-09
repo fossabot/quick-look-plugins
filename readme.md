@@ -144,5 +144,9 @@ defaults write com.apple.finder QLEnableTextSelection -bool true && killall Find
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fquick-look-plugins.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fquick-look-plugins?ref=badge_shield)
 
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fquick-look-plugins.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fquick-look-plugins?ref=badge_large)
